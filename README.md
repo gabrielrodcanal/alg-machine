@@ -1,0 +1,2 @@
+# INSERTION SORT - Algorithmic Machine
+This is the final project of the subject Specific Hardware Design. Here I used the techniques I learnt to build a design of an algorithmic machine that performs insertion sort. You can find the design along a schematic description of the steps I followed in doc/informe.pdf. Since I took the subject in Spanish the documentation is written in this language. An implementation of the design made with Proteus accompanies the project (insertionsort.pdsprj) so it can be tested within the simulation environment.
